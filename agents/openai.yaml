@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 257"
+  short_description: "寂静单线：上半保留原照，下半只留一根极细的不完美单线和极端留白"
+  default_prompt: "Use $xxd-panel-257 to transform my photograph following the complete canonical source brief."
